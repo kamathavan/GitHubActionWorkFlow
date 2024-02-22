@@ -28,7 +28,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
+// test message detected
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
